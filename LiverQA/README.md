@@ -32,3 +32,22 @@ Due to privacy regulations, only a subset of 50 anonymized cases is released her
 | `ultrasound_report`     | Key ultrasound findings |
 | `mri_report`            | Key MRI findings |
 ...
+
+##  Suggested Use
+
+This dataset can be used to:
+- Benchmark medical NLP models on structured diagnostic reasoning
+- Evaluate case complexity classification algorithms
+- Explore multi-agent or ensemble learning settings for diagnosis
+- Reproduce ablation and robustness experiments in the original paper
+
+---
+
+##  Ethical and Legal Considerations
+
+- All data has been **fully anonymized**.
+- No personally identifiable information (PII) or hospital-specific references are present.
+- This subset is released **strictly for academic and non-commercial research purposes**.
+- Any use of the data should cite the associated paper.
+
+---
